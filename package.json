@@ -1,7 +1,7 @@
 {
-  "name": "good-logzio",
+  "name": "good-json",
   "version": "0.1.0",
-  "description": "Logzio middleware for Good (HapiJS)",
+  "description": "JSON transformer middleware for Good (HapiJS). Can be used to transport JSON-only logs to fluentd, etc",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
@@ -20,7 +20,7 @@
     "good",
     "hapi",
     "hapijs",
-    "good-logzio",
+    "good-json",
     "logz",
     "logzio"
   ],
